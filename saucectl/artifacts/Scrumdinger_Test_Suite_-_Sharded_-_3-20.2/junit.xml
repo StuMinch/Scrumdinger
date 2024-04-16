@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuite name="Scrumdinger Test Suite - Sharded - 3/20" tests="2" failures="0" skipped="0" timestamp="2023-07-27T18:23:21.716Z" time="60.464" package="com.example.apple-samplecode.Scrumdinger">
+    <testcase name="testAddingPeopleToIndigoScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="43.362"/>
+    <testcase name="testAddingOrangeScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.713"/>
+</testsuite>

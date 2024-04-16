@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuite name="Scrumdinger Test Suite - Sharded - 1/2" tests="16" failures="0" skipped="0" timestamp="2023-07-05T20:39:09.849Z" time="724.772" package="com.example.apple-samplecode.Scrumdinger">
+    <testcase name="testAddingPeopleToIndigoScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="45.111"/>
+    <testcase name="testAddingPeopleToPoppyScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="45.017"/>
+    <testcase name="testAddingPeopleToTanScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="45.147"/>
+    <testcase name="testAddingPeopleToOrangeScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="45.21"/>
+    <testcase name="testAddingPeopleToPurpleScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="45.138"/>
+    <testcase name="testAddingPeopleToYellowScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="45.18"/>
+    <testcase name="testAddingPeopleToMagentaScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="45.221"/>
+    <testcase name="testAddingPeopleToTealScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="44.977"/>
+    <testcase name="testAddingPeopleToPeriwinkleScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="45.057"/>
+    <testcase name="testAddingPeopleToBubblegumScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="44.001"/>
+    <testcase name="testAddingPeopleToOxbloodScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="45.133"/>
+    <testcase name="testAddingPeopleToNavyScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="44.881"/>
+    <testcase name="testAddingPeopleToButtercupScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="45.211"/>
+    <testcase name="testAddingPeopleToSkyScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="42.804"/>
+    <testcase name="testAddingPeopleToSeafoamScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="45.036"/>
+    <testcase name="testAddingPeopleToLavenderScrum" classname="ScrumdingerUITests.ScrumCardDetails" time="45.055"/>
+</testsuite>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuite name="Scrumdinger via SauceCTL" tests="1" failures="0" skipped="0" timestamp="2023-07-03T20:45:15.826Z" time="10.114" package="com.example.apple-samplecode.Scrumdinger">
+    <testcase name="testAddingIndigoScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="7.557"/>
+</testsuite>

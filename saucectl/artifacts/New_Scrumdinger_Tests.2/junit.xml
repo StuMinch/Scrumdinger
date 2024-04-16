@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuite name="New Scrumdinger Tests" tests="16" failures="0" skipped="0" timestamp="2023-06-22T20:13:54.213Z" time="140.958" package="com.example.apple-samplecode.Scrumdinger">
+    <testcase name="testAddingIndigoScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.664"/>
+    <testcase name="testAddingLavenderScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.758"/>
+    <testcase name="testAddingPurpleScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.713"/>
+    <testcase name="testAddingNavyScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.735"/>
+    <testcase name="testAddingPoppyScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.689"/>
+    <testcase name="testAddingYellowScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.683"/>
+    <testcase name="testAddingOrangeScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.679"/>
+    <testcase name="testAddingPeriwinkleScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.654"/>
+    <testcase name="testAddingButtercupScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.767"/>
+    <testcase name="testAddingBubbleGumScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="7.62"/>
+    <testcase name="testAddingSeafoamScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.717"/>
+    <testcase name="testAddingOxbloodScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.83"/>
+    <testcase name="testAddingTealScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.685"/>
+    <testcase name="testAddingTanScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.618"/>
+    <testcase name="testAddingMagentaScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.693"/>
+    <testcase name="testAddingSkyScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="6.481"/>
+</testsuite>

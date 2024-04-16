@@ -1,0 +1,2 @@
+ScrumdingerUITests.ScrumCardDetails
+ScrumdingerUITests.ScrumCardProperties

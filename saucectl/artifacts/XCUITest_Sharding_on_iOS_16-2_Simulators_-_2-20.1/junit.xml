@@ -1,0 +1,8 @@
+<testsuites name="Selected tests" tests="2" failures="0">
+    <testsuite name="ScrumdingerUITests.ScrumCardDetails" tests="1" failures="0">
+        <testcase classname="ScrumdingerUITests.ScrumCardDetails" name="testAddingPeopleToButtercupScrum" time="78.608" />
+    </testsuite>
+    <testsuite name="ScrumdingerUITests.ScrumCardProperties" tests="1" failures="0">
+        <testcase classname="ScrumdingerUITests.ScrumCardProperties" name="testAddingNavyScrum" time="13.188" />
+    </testsuite>
+</testsuites>

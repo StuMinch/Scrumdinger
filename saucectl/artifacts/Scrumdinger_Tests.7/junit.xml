@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuite name="Scrumdinger Tests" tests="16" failures="7" skipped="0" timestamp="2023-05-25T03:40:13.100Z" time="141.017" package="com.example.apple-samplecode.Scrumdinger">
+    <testcase name="testAddingIndigoScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.615"/>
+    <testcase name="testAddingLavenderScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.653"/>
+    <testcase name="testAddingPurpleScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="9.102">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 116
+error: Failed to Error Domain=com.apple.dt.xctest.ui-testing.error Code=10008 "No matches found for Elements matching predicate '"Purple" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail." UserInfo={issues=NSMapTable {
+[2] Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. -&gt; {(
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.
+)}
+}
+, NSLocalizedDescription=No matches found for Elements matching predicate '"Purple" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.}: No matches found for Elements matching predicate '"Purple" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.</failure>
+    </testcase>
+    <testcase name="testAddingNavyScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.602"/>
+    <testcase name="testAddingPoppyScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="9.025">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 107
+error: Failed to Error Domain=com.apple.dt.xctest.ui-testing.error Code=10008 "No matches found for Elements matching predicate '"Poppy" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail." UserInfo={issues=NSMapTable {
+[2] Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. -&gt; {(
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.
+)}
+}
+, NSLocalizedDescription=No matches found for Elements matching predicate '"Poppy" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.}: No matches found for Elements matching predicate '"Poppy" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.</failure>
+    </testcase>
+    <testcase name="testAddingYellowScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="9.062">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 159
+error: Failed to Error Domain=com.apple.dt.xctest.ui-testing.error Code=10008 "No matches found for Elements matching predicate '"Yellow" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail." UserInfo={issues=NSMapTable {
+[2] Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. -&gt; {(
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.
+)}
+}
+, NSLocalizedDescription=No matches found for Elements matching predicate '"Yellow" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.}: No matches found for Elements matching predicate '"Yellow" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.</failure>
+    </testcase>
+    <testcase name="testAddingOrangeScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.668"/>
+    <testcase name="testAddingPeriwinkleScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="9.168">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 98
+error: Failed to Error Domain=com.apple.dt.xctest.ui-testing.error Code=10008 "No matches found for Elements matching predicate '"Periwinkle" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail." UserInfo={issues=NSMapTable {
+[2] Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. -&gt; {(
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.
+)}
+}
+, NSLocalizedDescription=No matches found for Elements matching predicate '"Periwinkle" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.}: No matches found for Elements matching predicate '"Periwinkle" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.</failure>
+    </testcase>
+    <testcase name="testAddingButtercupScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.636"/>
+    <testcase name="testAddingBubbleGumScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="7.492"/>
+    <testcase name="testAddingSeafoamScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="9.111">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 125
+error: Failed to Error Domain=com.apple.dt.xctest.ui-testing.error Code=10008 "No matches found for Elements matching predicate '"Seafoam" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail." UserInfo={issues=NSMapTable {
+[2] Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. -&gt; {(
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.
+)}
+}
+, NSLocalizedDescription=No matches found for Elements matching predicate '"Seafoam" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.}: No matches found for Elements matching predicate '"Seafoam" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.</failure>
+    </testcase>
+    <testcase name="testAddingOxbloodScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.565"/>
+    <testcase name="testAddingTealScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="9.015">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 150
+error: Failed to Error Domain=com.apple.dt.xctest.ui-testing.error Code=10008 "No matches found for Elements matching predicate '"Teal" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail." UserInfo={issues=NSMapTable {
+[2] Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. -&gt; {(
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.
+)}
+}
+, NSLocalizedDescription=No matches found for Elements matching predicate '"Teal" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.}: No matches found for Elements matching predicate '"Teal" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.</failure>
+    </testcase>
+    <testcase name="testAddingTanScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.985">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 141
+error: Failed to Error Domain=com.apple.dt.xctest.ui-testing.error Code=10008 "No matches found for Elements matching predicate '"Tan" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail." UserInfo={issues=NSMapTable {
+[2] Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. -&gt; {(
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.,
+    Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute.
+)}
+}
+, NSLocalizedDescription=No matches found for Elements matching predicate '"Tan" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.}: No matches found for Elements matching predicate '"Tan" IN identifiers' from input {(
+    Switch, label: 'Bubblegum', value: 0,
+    Switch, label: 'Buttercup', value: 0,
+    Switch, label: 'Indigo', value: 0,
+    Switch, label: 'Lavender', value: 0,
+    Switch, label: 'Magenta', value: 0,
+    Switch, label: 'Navy', value: 0,
+    Switch, label: 'Orange', value: 0,
+    Switch, label: 'Oxblood', value: 0
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Switch from legacy attributes vs Toggle from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 41;
+    "XC_kAXXCAttributeElementBaseType" = NSObject;
+    "XC_kAXXCAttributeElementType" = "SwiftUI.AccessibilityNode";
+    "XC_kAXXCAttributeTraits" = 9007207844675585;
+}
+See test report attachments for more detail.</failure>
+    </testcase>
+    <testcase name="testAddingMagentaScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="8.544"/>
+    <testcase name="testAddingSkyScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="6.497"/>
+</testsuite>

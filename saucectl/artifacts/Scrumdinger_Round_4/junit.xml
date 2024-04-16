@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuite name="Scrumdinger Round 4" tests="16" failures="16" skipped="0" timestamp="2023-07-03T22:04:58.808Z" time="50.4" package="com.example.apple-samplecode.Scrumdinger">
+    <testcase name="testAddingIndigoScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.936">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 45
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingLavenderScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.95">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 55
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingPurpleScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.885">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 125
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingNavyScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.883">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 75
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingPoppyScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.92">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 115
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingYellowScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.916">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 173
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingOrangeScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.95">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 85
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingPeriwinkleScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.935">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 105
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingButtercupScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.895">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 35
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingBubbleGumScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="1.773">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 25
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingSeafoamScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.916">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 135
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingOxbloodScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.917">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 95
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingTealScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.888">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 163
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingTanScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.904">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 153
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingMagentaScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.951">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 65
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testAddingSkyScrum" classname="ScrumdingerUITests.ScrumCardProperties" time="2.945">
+        <failure>file: /Users/stuart/Developer/Scrumdinger/ScrumdingerUITests/ScrumdingerUITests.swift
+line: 145
+error: XCTAssertTrue failed</failure>
+    </testcase>
+</testsuite>

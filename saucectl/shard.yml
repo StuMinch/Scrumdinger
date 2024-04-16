@@ -1,0 +1,28 @@
+
+apiVersion: v1alpha
+kind: xcuitest
+sauce:
+  region: us-west-1
+  concurrency: 20
+  metadata:
+    build: "Scrumdinger Sharded Build"
+xcuitest:
+  app: storage:012977c7-d09b-4db0-9af4-89de765d47e7
+  testApp: storage:58ce56cb-6b41-4d32-b50b-9196bbf63387
+
+suites:
+  - name: "XCUITest Sharding on iOS 16.2 Simulators"
+    shard: concurrency
+    testListFile: test_classes_and_tests.txt
+    simulators:
+      - name: "iPhone 14 Simulator"
+        orientation: portrait
+        platformVersions:
+          - "16.2"
+      
+artifacts:
+  download:
+    when: always
+    match:
+      - "junit.xml"
+    directory: ./artifacts/
